@@ -1,0 +1,10 @@
+C:\Users\10010010\desktop\mvc\bin\Debug\netcoreapp2.0\mvc.deps.json
+C:\Users\10010010\desktop\mvc\bin\Debug\netcoreapp2.0\mvc.runtimeconfig.json
+C:\Users\10010010\desktop\mvc\bin\Debug\netcoreapp2.0\mvc.runtimeconfig.dev.json
+C:\Users\10010010\desktop\mvc\bin\Debug\netcoreapp2.0\mvc.dll
+C:\Users\10010010\desktop\mvc\bin\Debug\netcoreapp2.0\mvc.pdb
+C:\Users\10010010\desktop\mvc\obj\Debug\netcoreapp2.0\mvc.csproj.CoreCompileInputs.cache
+C:\Users\10010010\desktop\mvc\obj\Debug\netcoreapp2.0\mvc.AssemblyInfoInputs.cache
+C:\Users\10010010\desktop\mvc\obj\Debug\netcoreapp2.0\mvc.AssemblyInfo.cs
+C:\Users\10010010\desktop\mvc\obj\Debug\netcoreapp2.0\mvc.dll
+C:\Users\10010010\desktop\mvc\obj\Debug\netcoreapp2.0\mvc.pdb
